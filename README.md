@@ -6,3 +6,7 @@ This application uses a columnar transposition in order to perform its encryptio
 Currently, the text that can be encrypted/decrypted is limited to letters; no numbers are allowed. The key can be a mix of numbers and letters.
 
 The decrypted results omits all spaces.
+
+The GUI API can be found in the appJar folder. appJar is the API that I chose to use for this application.
+
+The application itself can be found in the columnar.py file, which contains both the functions for the encryption/decryption as well as the code for running the GUI itself.
